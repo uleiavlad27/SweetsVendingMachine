@@ -1,0 +1,8 @@
+1 10.2 Corn
+2 5.23 Apa
+3 1 Ciocolata
+4 4.5 Suc
+5 100.4 Limonada
+6 76.54 Oua
+7 23.54 Lapte
+8 33.22 Paine
