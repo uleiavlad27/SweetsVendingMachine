@@ -1,3 +1,0 @@
-C:/Users/vlads/OneDrive/Desktop/SweetsVendingMachine/SweetsVendingMachine/cmake-build-debug/CMakeFiles/SweetsVendingMachine.dir
-C:/Users/vlads/OneDrive/Desktop/SweetsVendingMachine/SweetsVendingMachine/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/vlads/OneDrive/Desktop/SweetsVendingMachine/SweetsVendingMachine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
