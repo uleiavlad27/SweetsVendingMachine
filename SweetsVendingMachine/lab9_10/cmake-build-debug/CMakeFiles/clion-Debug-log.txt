@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\Users\vlads\OneDrive\Desktop\SweetsVendingMachine\lab9_10 Select CMakeLists.txt
